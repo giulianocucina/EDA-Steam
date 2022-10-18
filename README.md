@@ -18,9 +18,7 @@ Taking into account the rise of video games and their relevance, we seek to stud
 
 ## Curiosity:
 
-There is a concept called Shovelgames, which was unknown to us. It refers to those games created in short periods, with low quality, and published massively to catch some sales. A clear example is a developer called: William at Oxford, which published more than 50 games in 3 years.
-
-The problem is so big that Steam, in recent years, Steam has removed thousands of games to "try" to solve this problem.
+There is a concept called Shovelgames, which was unknown to us. It refers to those games created in short periods, with low quality, and published massively to catch some sales. A clear example is a developer called: William at Oxford, which published more than 50 games in 3 years. The problem is so big that Steam, in recent years, Steam has removed thousands of games to "try" to solve this problem.
 
 ## Conclusions:
 
