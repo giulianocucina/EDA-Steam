@@ -9,7 +9,7 @@ It was chosen by the relevance of video games today. More than 75% of young peop
 
 As a young video game company, the possibility of launching the first video game on the world's largest PC platform, Steam, is being evaluated due to its relevance and reach of more than 130 million monthly active players.
 
-1. ***Hypothesis raised:***
+### 1. ***Hypothesis raised:***
 
 Taking into account the rise of video games and their relevance, we seek to study data from the Steam platform to evaluate the following:
 
@@ -19,11 +19,11 @@ Taking into account the rise of video games and their relevance, we seek to stud
 
 - The video game market on Steam is very competitive, especially for Indies?
 
-2. ***Curiosity:***
+### 2. ***Curiosity:***
 
 There is a concept called Shovelgames, which was unknown to us. It refers to those games created in short periods, with low quality, and published massively to catch some sales. A clear example is a developer called: William at Oxford, which published more than 50 games in 3 years. The problem is so big that Steam, in recent years, Steam has removed thousands of games to "try" to solve this problem.
 
-3. ***Conclusions:***
+### 3. ***Conclusions:***
 
 - The Steam video game platform is a good place for sales. However, they do not have any filter when accepting video games for sale, which generates visibility problems, especially for small creators.
 
@@ -31,7 +31,7 @@ There is a concept called Shovelgames, which was unknown to us. It refers to tho
 
 - The market of video games on Steam is very competitive, both for Indies and AAA. Due to Shovelgames.
 
-4. ***Recommendations:***
+### 4. ***Recommendations:***
 
 - Carry out a marketing campaign with a defined target to stand out from the Shovelgames.
 
