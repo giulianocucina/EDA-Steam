@@ -39,6 +39,8 @@ There is a concept called Shovelgames, which was unknown to us. It refers to tho
 
 ## Stack:
 
-- Programming: Python.
-- BI Tools: Tableau, Jupyter Notebook.
-- Libraries: Pandas, NumPy, Beautiful Soup.
+|**Libraries**|**BI Tools**|**Programming**|
+|--------|--------|--------|
+|Pandas  |Tableau |Python|
+| NumPy  |Jupyter Notebook||
+|Beautiful Soup|||
