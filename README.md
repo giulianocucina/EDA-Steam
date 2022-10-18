@@ -2,9 +2,9 @@
 
 ## Why this subject:
 
-- It was chosen by the relevance of video games today. More than 75% of young people up to 40 years old are considered gamers. This industry is much larger and raises more money than film and music combined.
+It was chosen by the relevance of video games today. More than 75% of young people up to 40 years old are considered gamers. This industry is much larger and raises more money than film and music combined.
 
-- As a young video game company, the possibility of launching the first video game on the world's largest PC platform, Steam, is being evaluated due to its relevance and reach of more than 130 million monthly active players.
+As a young video game company, the possibility of launching the first video game on the world's largest PC platform, Steam, is being evaluated due to its relevance and reach of more than 130 million monthly active players.
 
 ## Hypothesis raised:
 
@@ -37,3 +37,9 @@ The problem is so big that Steam, in recent years, Steam has removed thousands o
 - Focus on popular genres, such as casual, action, and adventure, as they are more attractive to the market.
 
 - Seek access to other more exclusive platforms as the Nintendo store, for greater visibility and potential market.
+
+## Stack:
+
+- Programming: Python.
+- BI Tools: Tableau, Jupyter Notebook.
+- Libraries: Pandas, NumPy, Beautiful Soup.
