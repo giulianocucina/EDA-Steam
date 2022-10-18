@@ -1,37 +1,39 @@
 # EDA STEAM
 
-## Por qué se eligió la temática:
+## Why this subject:
 
-- El tema fue escogido por la relevancia que tiene el mundo de los videojuegos en la actualidad, más del 75% de las personas jóvenes hasta la edad de 40 años se considera “gamer”, y cuya industria hoy es mucho más grande y recauda más dinero que el cine y la música combinados.
+- It was chosen by the relevance of video games today. More than 75% of young people up to 40 years old are considered gamers. This industry is much larger and raises more money than film and music combined.
 
-- Al ser una empresa de videojuegos joven, se esta evaluando la posibilidad de realizar el primer lanzamiento de un videojuego en la plataforma de PC mas grande del mundo “Steam” por su relevancia y alcance a más de 130 millones de jugadores activos mensuales.
+- As a young video game company, the possibility of launching the first video game on the world's largest PC platform, Steam, is being evaluated due to its relevance and reach of more than 130 million monthly active players.
 
-## Hipótesis planteada:
+## Hypothesis raised:
 
-Tomando en cuenta el auge de los videojuegos y su relevancia, se busca estudiar datos de la plataforma Steam para evaluar lo siguiente:
+Taking into account the rise of video games and their relevance, we seek to study data from the Steam platform to evaluate the following:
 
-- ¿La plataforma de videojuegos Steam, es una buena plaza de ventas para los videojuegos?
+- Is the Steam video game platform a good sales place for video games?
 
-- ¿Son los videojuegos AAA más populares que los Indies?
+- Are AAA Video Games More Popular Than Indies?
 
-- El mercado de los videojuegos en Steam, es muy competitivo, ¿en especial para los Indie?
+- The video game market on Steam is very competitive, especially for Indies?
 
-## Curiosidad del EDA:
+## Curiosity:
 
-Cabe resaltar que esto era totalmente desconocido para mí, existe un concepto llamado Shovelgames, lo que quiere decir que son juegos que se realizan en dos o tres días, es decir de baja calidad, que son publicados de una manera masiva para buscar generar algunas ventas, un caso muy claro y que llamo la atención es William at Oxford. Es tan grande el problema que Steam en los últimos años ha eliminado miles de juegos para "tratar" de solucionar este problema.
+There is a concept called Shovelgames, which was unknown to us. It refers to those games created in short periods, with low quality, and published massively to catch some sales. A clear example is a developer called: William at Oxford, which published more than 50 games in 3 years.
 
-## Conclusiones: 
+The problem is so big that Steam, in recent years, Steam has removed thousands of games to "try" to solve this problem.
 
-- La plataforma de videojuegos Steam si es una buena plaza de ventas, sin embargo, no poseen filtro alguno al momento de aceptar videojuegos para su venta, lo que genera problemas de visibilidad, sobre todo a pequeños creadores.
+## Conclusions:
 
-- Los videojuegos AAA si son mas populares que los Indie, aunque no por un amplio margen.
+- The Steam video game platform is a good place for sales. However, they do not have any filter when accepting video games for sale, which generates visibility problems, especially for small creators.
 
-- El mercado de los videojuegos en Steam es muy competitivo, tanto para Indies como para AAA, debido a el Shovelware.
+- AAA video games are more popular than Indie games, although not by a wide margin.
 
-## Recomendaciones:
+- The market of video games on Steam is very competitive, both for Indies and AAA. Due to Shovelgames.
 
-- Realizar una campana de marketing con antelación, y con un target definido para sobresalir de los Shovelgames.
+## Recommendations:
 
-- Enfocarse en géneros populares, como los Indies, acción y aventura, ya que son más fáciles de comercializar.
+- Carry out a marketing campaign with a defined target to stand out from the Shovelgames.
 
-- Buscar acceso a otras plataformas más exclusivas como lo es la tienda de Nintendo para una mayor visibilidad y mercado potencial.
+- Focus on popular genres, such as casual, action, and adventure, as they are more attractive to the market.
+
+- Seek access to other more exclusive platforms as the Nintendo store, for greater visibility and potential market.
