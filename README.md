@@ -44,8 +44,8 @@ There is a concept called Shovelgames, which was unknown to us. It refers to tho
 |**Web Scrapping**|**Data Mining**|**Visualization**|
 |--------------------|------------------|---------|
 |- Yaml              |- Regex           |- Regex  |
-|- Regex             |- NumPy           |- NumPy  |
+|- Regex             |- Python          |- Python |
 |- Python            |- Pandas          |- Pandas |
-|- Logging           |- Python          |- Python |
+|- Logging           |- NumPy           |- NumPy  |
 |- Beautiful Soup    |- Jupyter Notebook|- Tableau|
 |- Visual Studio Code|                  |         |
