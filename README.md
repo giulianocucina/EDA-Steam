@@ -1,5 +1,5 @@
 # ***EDA STEAM***
-### [Click to access the Tableau presentation](https://public.tableau.com/app/profile/giulianocucina/viz/EDASteam/EDASteam/)
+### [Click to access the Tableau presentation](https://public.tableau.com/app/profile/giulianocucina/viz/EDASteam/EDASteam)
 
 [![Steam](https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/clans/4145017/c1bb169b7f051e705ee9b13dde87031baecf6b28.jpg)](https://public.tableau.com/app/profile/giulianocucina/viz/EDASteam/EDASteam)
 
