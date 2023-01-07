@@ -41,7 +41,7 @@ There is a concept called Shovelgames, which was unknown to us. It refers to tho
 
 ## ***Stack:***
 
-|**Web Scrapping**|**Data Mining**|**Visualization**|
+|**Data Mining**|**Data Cleaning**|**Data Visualization**|
 |--------------------|------------------|---------|
 |- Yaml              |- Regex            |- Regex  |
 |- Regex             |- Python           |- Python |
