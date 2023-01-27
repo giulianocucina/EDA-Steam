@@ -41,11 +41,11 @@ There is a concept called Shovelgames, which was unknown to us. It refers to tho
 
 ## ***Stack:***
 
-|**Data Mining**|**Data Cleaning**|**Data Visualization**|
-|--------------------|------------------|---------|
-|- Yaml              |- Regex            |- Regex  |
-|- Regex             |- Python           |- Python |
-|- Python            |- Pandas           |- Pandas |
-|- Logging           |- NumPy            |- NumPy  |
-|- Beautiful Soup    |- Jupyter Notebook |- Tableau|
-|- Visual Studio Code|                   |         |
+|   **Data Mining**  | **Data Cleaning** |**Data Visualization**|
+|--------------------|-------------------|----------------------|
+|- Yaml              |- Regex            |- Tableau             |
+|- Regex             |- Python           |- Jupyter Notebook    |
+|- Python            |- Pandas           |                      |
+|- Logging           |- NumPy            |                      |
+|- Beautiful Soup    |                   |                      |
+|- Visual Studio Code|                   |                      |
